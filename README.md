@@ -6,6 +6,8 @@ Aquest projecte realitzem un GRAPH amb funcions creades amb el MATLAB. Es captur
 
 En aquest apartat mostrem la imatge original per poder anar comparant les imatges que ens surten al fer diferents canvis.
 
+![captura](https://user-images.githubusercontent.com/44298622/55278293-ab495900-530a-11e9-998d-db53bc3bfa39.JPG)
+
 ## Graph Arbitrari
 
 En aquest apartat creem els 10 factors amb valors random i amb una covariança bastant elevada degut a que posem valors randoms. D'aquesta manera podem observar com el codi genera un graph que no s'assemblara res amb el de la imatge que ens subministre el professor.
