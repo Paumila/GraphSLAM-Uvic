@@ -16,6 +16,18 @@ En aquest apartat creem els 10 factors amb valors random i amb una covariança b
 
 ![Graph_v0](https://user-images.githubusercontent.com/44298622/55278223-bb146d80-5309-11e9-9fef-43bd82541818.jpg)
 
-Com podem observar no te cap similitud amb la imatge original (subministrada pel professor).
+Com podem observar no te cap similitud amb la imatge original (en l'apartat Graph Original). 
+
+## Graph a ull
+
+A continuació modifiquem les distancies i les covariences per poder ajustar la imatge original de la del nostre Graph. En aquest apartat fem les mesures a ull.
+
+Considerem que al fer les mesures a ull tindrem algun error considerable per aquest motiu les covariences que fem servir són:
+
+- 10mm de distancia i 5 graus
+
+Realitzem aquestes mesures i observem que el graph s'assembla bastant, pero conté alguns errors en distancia i graus.
+
+
 
 
