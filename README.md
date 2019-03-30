@@ -8,6 +8,6 @@ En aquest apartat creem els 10 factors amb valors random i amb una covariança b
 
 - La següent imatge consisteix en valor aleatoris i una covariança de 0,3m 10graus
 
-![Graph_v0](images/Graph_v0.jpg)
+![Graph_v0](Graph_v0.jpg)
 
 
