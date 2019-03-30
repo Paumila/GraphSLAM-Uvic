@@ -46,6 +46,16 @@ La covariança que posem es de 3mm i 3graus.
 
 Amb aquesta covariança i valors que col·loquem traiem un molt bon resultat.
 
+![GraphOK](https://user-images.githubusercontent.com/44298622/55278415-3f67f000-530c-11e9-80e6-d01fe3b752fc.jpg)
 
+# Conclusions
+
+Sempre podriem millorar el sistema:
+
+- Podriem fer sistemes de mesures molt millors del que hem fet.
+
+En definitiva, la covariança es un punt molt important ja que l'has de possar segons la mesura que has fet. Si es una mesura que no estas del tot segur possiblement l'hauras de pujar bastant.
+
+En el meu cas al final l'hem possat molt petita ja que confiava que la relació que havia trobat era suficientment bona.
 
 
