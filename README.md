@@ -14,6 +14,7 @@ En aquest apartat creem els 10 factors amb valors random i amb una covariança b
 
 - La següent imatge consisteix en valor aleatoris i una covariança de 0,3m 10graus
 
+![Graph_v0](https://user-images.githubusercontent.com/44298622/55278223-bb146d80-5309-11e9-9fef-43bd82541818.jpg)
 
 Com podem observar no te cap similitud amb la imatge original (subministrada pel professor).
 
