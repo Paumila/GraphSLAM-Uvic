@@ -40,6 +40,10 @@ El que fem es imprimir el Graph original i tracem linies entre els factors i els
 
 A continuació trobem una relació entre la mesura real (mesurada amb un regla en el paper) amb la ideal (distancia o angle). Aquesta relació la fem mitjançant una regla de 3.
 
+En la imatge seguent es pot veure com he traçat les diferents linies per poder fer calculs de les distancies i angles:
+
+
+
 Amb aquest sistema omplim els 10 factors i col·loquem una covariança molt petita ja que el error sera minim.
 
 La covariança que posem es de 3mm i 3graus.
