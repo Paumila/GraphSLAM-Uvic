@@ -42,7 +42,7 @@ A continuació trobem una relació entre la mesura real (mesurada amb un regla e
 
 En la imatge seguent es pot veure com he traçat les diferents linies per poder fer calculs de les distancies i angles:
 
-
+![GraphOriginal_v1](https://user-images.githubusercontent.com/44298622/55278510-8b676480-530d-11e9-90ba-c3eaf0a03650.jpeg)
 
 Amb aquest sistema omplim els 10 factors i col·loquem una covariança molt petita ja que el error sera minim.
 
