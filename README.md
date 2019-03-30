@@ -28,6 +28,24 @@ Considerem que al fer les mesures a ull tindrem algun error considerable per aqu
 
 Realitzem aquestes mesures i observem que el graph s'assembla bastant, pero conté alguns errors en distancia i graus.
 
+![Graph_v1](https://user-images.githubusercontent.com/44298622/55278351-696ce280-530b-11e9-84cb-91608a4e301a.jpg)
+
+Com podem comparar a simple vista la imatge es bastant similar a la original. Tenim alguns error en angles i en distancies. Una opció seria augmentar una mica més les covariences ja que possiblement estem cometent mes errors del que hem apuntat.
+
+## Graph final
+
+Per poder millorar de manera considerable el graph fem servir una tecnica que tambe pot tenir error pero menys que a ull.
+
+El que fem es imprimir el Graph original i tracem linies entre els factors i els estats per saber mes o menys en quina posició i angle estan.
+
+A continuació trobem una relació entre la mesura real (mesurada amb un regla en el paper) amb la ideal (distancia o angle). Aquesta relació la fem mitjançant una regla de 3.
+
+Amb aquest sistema omplim els 10 factors i col·loquem una covariança molt petita ja que el error sera minim.
+
+La covariança que posem es de 3mm i 3graus.
+
+Amb aquesta covariança i valors que col·loquem traiem un molt bon resultat.
+
 
 
 
